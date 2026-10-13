@@ -3,6 +3,7 @@
 - 근거 자료
   - 명세: Google Drive `KANT/teamprj_front/ubuntubooks spec v3.2`
   - 화면: 같은 폴더 `ui-v0`의 UI 이미지 28장 (`00_스타일가이드` ~ `27_관리자_작별안부편지`)
+- FigJam (KRN 팀): https://www.figma.com/board/Abc5dqy7gdU47HkWoBfTi6
 - 표기
   - 실선: 화면에 있는 버튼·링크로 이동
   - 점선: 조건부 이동, 비동기 상태 변화, 관리자가 일으키는 변화
